@@ -204,3 +204,5 @@ ORDER BY [HighestPeakElevetion] DESC,
       AS PeakRankingSubquery
 ORDER BY CountryName,
 		 [Highest Peak Elevation]
+
+ -- Problem 19
