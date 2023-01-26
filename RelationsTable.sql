@@ -197,3 +197,6 @@ CREATE TABLE [Agenda]
 	[SubjectID] INT FOREIGN KEY REFERENCES [Subjects] ([SubjectID]) UNIQUE NOT NULL,
 	PRIMARY KEY ( [StudentID], [SubjectID])
 )
+
+
+--7
